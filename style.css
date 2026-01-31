@@ -86,6 +86,7 @@ a {
 }
 
 #walker {
+  display: none;
   position: fixed;
   width: 100px;
   max-width: revert-layer;

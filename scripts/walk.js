@@ -71,3 +71,4 @@ function animate(timestamp) {
   rafId = requestAnimationFrame(animate);
 }
 rafId = requestAnimationFrame(animate);
+walker.style.display = "block";
